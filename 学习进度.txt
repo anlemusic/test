@@ -1,0 +1,45 @@
+CSS3
+HTML5
+Angular					数据交顾
+vue.js  				数据绑定的js
+
+springboot  				颠覆者框架
+  
+Maven、Gradle  				项目对象模型
+ Ant、Maven和Gradle
+GitHub  				基于git的代码托管平台
+SVN  					cvn的接班人,可借助apache运行,或者独立运行
+Git  					分布式版本控制系统
+Hadoop					分布式系统基础架构
+RESTful					数据约束(303验证框架等)
+Redis  					集群服务器缓存框架(复杂的架构)
+Ehcache					缓存框架(H的缓存机制就是使用到它,简单的架构)
+
+Nginx  					反向代理服务器、以及WEB服务器
+ZooKeeper 				分布式应用服务软件+solr=solrcloud
+
+SolrCloud  				分布式搜索
+
+Dubbo  					分布式服务框架(国内广泛,阿里的)
+SpringCloud基于SpringBoot		分布式服务框架(国外流行)
+
+Shiro  					加密密码的安全框架
+RBAC  					基于角色的访问控制权
+activiti  				工作流引擎
+  
+
+python(五天)				复杂的一个语言http://cuiqingcai.com/1052.html
+
+		oK
+SpringCloud
+spring-boot-admin
+hystrix-turbine监控的使用
+docker
+thrift
+zookeeper
+
+		ing
+git、
+MongoDB、redis
+dubbo
+Hadoop实现了一个分布式文件系统
