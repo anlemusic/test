@@ -21,7 +21,7 @@ ZooKeeper 				分布式应用服务软件+solr=solrcloud
 SolrCloud  				分布式搜索
 
 Dubbo  					分布式服务框架(国内广泛,阿里的)
-SpringCloud基于SpringBoot		分布式服务框架(国外流行)
+SpringCloud基于SpringBoot		      分布式服务框架(国外流行)
 
 Shiro  					加密密码的安全框架
 RBAC  					基于角色的访问控制权
@@ -37,9 +37,11 @@ hystrix-turbine监控的使用
 docker
 thrift
 zookeeper
+redis
+git
 
 		ing
-git、
-MongoDB、redis
+
+MongoDB
 dubbo
 Hadoop实现了一个分布式文件系统
